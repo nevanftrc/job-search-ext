@@ -1,0 +1,11 @@
+{
+  "name": "Job Finder",
+  "description": "Search for jobs directly from your browser using the JSearch API.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Job Finder"
+  },
+  "permissions": ["storage"]
+}
